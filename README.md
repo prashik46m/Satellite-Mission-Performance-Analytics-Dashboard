@@ -41,7 +41,7 @@ This project is an interactive Power BI dashboard developed to analyze global sa
 
 ## 🖼 Dashboard Preview
 
-![Satellite Mission Dashboard](Satellite Mission Performance and Analytics Dashboard.png)
+![Satellite Mission Dashboard](Satellite_Mission.png)
 
 ---
 
